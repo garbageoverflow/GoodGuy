@@ -6,6 +6,12 @@
 
 > GoodGuy is a discord bot that deletes messages that contain bad words and also alerts the user.
 
+<a href="https://discord.com/api/oauth2/authorize?client_id=707139128663212045&permissions=0&scope=bot">
+
+![invite](https://img.shields.io/badge/Invite-Discord-blueviolet)
+
+</a>
+
 # Do it yourself
 It's not hard, if you already have some basic knowledge about [discord.js](discord.js.org).
 
